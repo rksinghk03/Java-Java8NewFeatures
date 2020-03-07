@@ -9,6 +9,8 @@ public class Lab1_Function {
 Function <Integer,Integer> f= i-> i*i;
 System.out.println("the squar fo 4 = "+f.apply(4));
 System.out.println("the squar of 5 = "+f.apply(5));
+System.out.println("the squar of 5 = "+f.apply(5));
+System.out.println("the squar of 5 = "+f.apply(5));
 	}
 
 }
